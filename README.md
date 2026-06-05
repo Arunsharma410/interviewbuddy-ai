@@ -4,6 +4,10 @@ AI-powered interview preparation platform that helps you ace your next job inter
 
 ![InterviewBuddy AI](./public/images/og-image.jpg)
 
+
+
+LIVE DEMO:https://interviewbuddy-ai-jade.vercel.app/
+
 ## ✨ Features
 
 - 🤖 **AI-Generated Questions** - Personalized questions based on your resume
